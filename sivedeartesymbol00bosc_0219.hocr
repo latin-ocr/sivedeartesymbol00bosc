@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sivedeartesymbol00bosc_0219.png"; bbox 0 0 2344 3941; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 384 54 940">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 41 384 54 940">
+     <span class='ocr_line' id='line_1_1' title="bbox 41 384 54 940; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 41 384 54 940; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1 338 2093 3484">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1 338 2093 3484">
+     <span class='ocr_line' id='line_1_2' title="bbox 1 338 2093 3484; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1 338 2093 3484; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 21 3459 1955 3512">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 21 3459 1955 3512">
+     <span class='ocr_line' id='line_1_3' title="bbox 21 3459 1955 3512; baseline 0.013 -27"><span class='ocrx_word' id='word_1_3' title='bbox 21 3459 46 3484; x_wconf 58' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 54 3463 76 3485; x_wconf 79' lang='grc' dir='ltr'><em>[ἶ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 86 3462 206 3491; x_wconf 57' lang='lat' dir='ltr'><em>Sclmlssls</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 214 3465 272 3494; x_wconf 52' lang='lat' dir='ltr'><em>des</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1719 3485 1902 3512; x_wconf 31' lang='lat' dir='ltr'><em>Jasqffu‘ffer</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1911 3487 1955 3510; x_wconf 61' lang='lat' dir='ltr'><em>ssi</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

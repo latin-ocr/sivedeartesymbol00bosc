@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sivedeartesymbol00bosc_0594.png"; bbox 0 0 2282 3926; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 594 291 636">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 594 291 636">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 599 254 624; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 242 599 254 624; x_wconf 49' lang='grc' dir='ltr'><strong>μ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 252 594 291 636; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 252 594 291 636; x_wconf 62' lang='grc' dir='ltr'><strong>ΣΥ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 242 626 285 781">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 242 626 285 781">
+     <span class='ocr_line' id='line_1_3' title="bbox 242 626 285 781; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 242 626 285 781; x_wconf 32' lang='grc' dir='ltr'><strong>ἥψω-ἤ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 258 820 295 886">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 258 820 295 886">
+     <span class='ocr_line' id='line_1_4' title="bbox 258 820 295 886; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 258 858 287 886; x_wconf 68' lang='lat'><strong>115</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 264 820 295 845; x_wconf 45' lang='grc' dir='ltr'><strong>κε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 107 0 2282 3926">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 107 0 2282 3926">
+     <span class='ocr_line' id='line_1_5' title="bbox 107 0 2282 3926; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 107 0 2282 3926; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
